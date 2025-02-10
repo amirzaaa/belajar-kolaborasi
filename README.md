@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-halo #1
+halo #2
